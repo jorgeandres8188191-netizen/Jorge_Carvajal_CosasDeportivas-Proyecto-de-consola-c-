@@ -1,0 +1,15 @@
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/bin/Debug/net9.0/Deporteca
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/bin/Debug/net9.0/Deporteca.deps.json
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/bin/Debug/net9.0/Deporteca.runtimeconfig.json
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/bin/Debug/net9.0/Deporteca.dll
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/bin/Debug/net9.0/Deporteca.pdb
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.AssemblyInfoInputs.cache
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.AssemblyInfo.cs
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.csproj.CoreCompileInputs.cache
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.sourcelink.json
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.dll
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/refint/Deporteca.dll
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.pdb
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/Deporteca.genruntimeconfig.cache
+/home/jorge/Clase/Examen/Jorge_Carvajal_CosasDeportivas-Proyecto-de-consola-c-/Deporteca/obj/Debug/net9.0/ref/Deporteca.dll
